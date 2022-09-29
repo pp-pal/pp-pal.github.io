@@ -9,9 +9,6 @@ parent: Products
 Alpha Version
 {: .label }
 
-On Review
-{: .label .label-yellow }
-
 # Page content
 
 1. [What's Focus Tabs?](#whats-focus-tabs)
@@ -21,6 +18,12 @@ On Review
     - [Retropestive](#retrospective)
     - [Mark Finished](#mark-finished)
 3. [Pricing](#pricing)
+
+***
+
+<span class="fs-5">
+<button class="btn btn-green" onclick=" window.open('https://chrome.google.com/webstore/detail/focus-tabs/oeckihmjhpibllhinomhnbodgnhkhjgb','_blank')">Download Focus Tabs</button>
+</span>
 
 ***
 

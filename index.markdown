@@ -34,3 +34,10 @@ Finish your task faster, block websites & track browsing history during session.
 
 ![Blocked Websites]({% link assets/img/focus-tabs/blocked-websites.png %})
 {: .mx-auto .width-50}
+
+### [Lazy Chatters]({% link products/lazy-chatters.markdown %})
+
+Get notified when someone mention you on Twitch chat. Add shortcut for your copy pasta.
+
+![Notification Setting]({% link assets/img/lazy-chatters/notification-setting.png %})
+{: .mx-auto .width-50}
