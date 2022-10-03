@@ -6,4 +6,4 @@ nav_exclude: true
 ---
 
 {: .highlight }
-You have successfully change your password. Try to login in the apps.
+You have successfully changed your password. Try to login using your new password.
