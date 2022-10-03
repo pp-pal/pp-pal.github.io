@@ -6,19 +6,13 @@ nav_order: 3
 parent: Products
 ---
 
-Alpha Version
-{: .label }
-
-Submitting to store
-{: .label .label-yellow }
-
 # Page content
 
 1. [What's Lazy Chatters?](#whats-lazy-chatters)
 2. [Features](#features)
     - [Twitch mention notification](#twitch-mention-notification)
     - [Twitch copy pasta](#twitch-copy-pasta)
-3. [Pricing](#pricing)
+3. [Features & Pricing](#features--pricing)
 4. [How To Subscribe?](#how-to-subscribe)
 5. [To Do After Subscribe](#to-do-after-subscribe)
     - [Turn on google chrome notification setting](#turn-on-google-chrome-notification-setting)
@@ -29,10 +23,11 @@ Submitting to store
 ***
 
 <span class="fs-5">
-[Download link will be provided after...](#pricing){: .btn .btn-green }
+<button class="btn btn-green" onclick=" window.open('https://chrome.google.com/webstore/detail/lazy-chatters/cmhjeefklfpglodcffabbjebjpmadned','_blank')">Download Lazy Chatters</button>
 </span>
 
 ***
+
 ## What's Lazy Chatters?
 
 `Lazy Chatters` google chrome extension will send you a `notification` when someone `mention you in a Twitch chat`. It's not rare for Twitch chatters (yes you) to multi tasking while watching streamer(s). Watching more than one stream is a norm too. So, watch as many streamers as you can!
@@ -65,12 +60,24 @@ Shortcuts only work when you are in `https://www.twitch.tv/{your_streamer}`.
 ![Shortcut Setting]({% link assets/img/lazy-chatters/list-chat.png %})
 {: .mx-auto .width-50}
 
-## Pricing
+## Features & Pricing
+
+| Feature                     | Subscribe    | Non Sub |
+|:----------------------------|:-------------|:--------|
+| Twitch mention notification | Yes          | No      |
+| Copy pasta chats limit      | 100          | 3       |
 
 `Lazy Chatters` is as low as `$0.99` a month for yearly subscription, and `$1.99` a month for monthly subscription.
 
-{: .highlight }
-Subscription will be available after Lazy Chatters app is approved.
+<p>
+<span class="fs-5">
+<button class="btn btn-green" onclick=" window.open('https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8EL43485LU352442XMM5JBBA','_blank')">Subscribe for $0.99/mo</button>
+</span>
+
+<span class="fs-5">
+<button class="btn" onclick=" window.open('https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-24J316400R614321MMMM7RKI','_blank')">Subscribe for $1.99/mo</button>
+</span>
+</p>
 
 ## How To Subscribe?
 
@@ -79,7 +86,7 @@ Subscription will be available after Lazy Chatters app is approved.
 - Paypal will notify our system after the successful payment
 - Then, we create your Lazy Chatters account with your Paypal email
 - You should receive a randomly generated password in your Paypal email
-- Download Lazy Chatters (link will be provided after app is approved)
+- <a href="https://chrome.google.com/webstore/detail/lazy-chatters/cmhjeefklfpglodcffabbjebjpmadned" target="_blank">Download Lazy Chatters</a>
 - After login, we strongly recommend you to `change your password with stronger one immediately`
 
 ## To Do After Subscribe
