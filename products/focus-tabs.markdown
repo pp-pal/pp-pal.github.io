@@ -18,6 +18,7 @@ Alpha Version
     - [Retropestive](#retrospective)
     - [Mark Finished](#mark-finished)
 3. [Pricing](#pricing)
+4. [Privacy Policy]({% link privacy-policy.markdown %})
 
 ***
 

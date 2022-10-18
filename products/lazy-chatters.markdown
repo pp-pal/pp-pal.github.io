@@ -19,6 +19,7 @@ parent: Products
 6. [Do You Have Trial?](#do-you-have-trial)
 7. [How To Unsubcribe?](#how-to-unsubscribe)
 8. [How To Change Subscription?](#how-to-change-subscription)
+9. [Privacy Policy]({% link privacy-policy.markdown %})
 
 ***
 
