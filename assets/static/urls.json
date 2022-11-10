@@ -1,0 +1,14 @@
+[
+    {
+        "short_url": "google",
+        "long_url": "https://google.com"
+    },
+    {
+        "short_url": "youtube",
+        "long_url": "https://youtube.com"
+    },
+    {
+        "short_url": "miso",
+        "long_url": "https://minimi.so"
+    }
+]
